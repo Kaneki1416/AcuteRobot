@@ -115,10 +115,10 @@ def h_for_funcs(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Github 🔭", url="https://github.com/starry69"
+                            text="Info 🔭", url="https://t.me/whoIzKaneki"
                         ),
                         InlineKeyboardButton(
-                            text="Donate 🖤", url="paypal.me/starryrays"
+                            text="Dev 🖤", url="https://t.me/KaNeKi354_bot"
                         ),
                     ],
                     [
